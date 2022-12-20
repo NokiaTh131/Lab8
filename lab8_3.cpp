@@ -11,6 +11,7 @@ char before(char x){
 			y = '0';
 		}
 	}
+	
 	return y;
 	
 }

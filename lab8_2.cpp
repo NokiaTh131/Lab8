@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     double ID;
     int gear;
     string name;
